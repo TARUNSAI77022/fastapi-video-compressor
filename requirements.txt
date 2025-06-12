@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+python-dotenv
+Pillow
+python-multipart
+celery[redis]
+pika
+
+
+
